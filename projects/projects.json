@@ -2,7 +2,7 @@
   {
     "name": "Fastify Microservice Template",
     "desc": "A lightweight, scalable API template for building high-performance microservices using Fastify and Prisma ORM. ",
-    "image": "fastify",
+    "image": "fastify-header",
     "category": "",
     "links": {
       "view": "https://github.com/jennylyntimbol10/fastify_microservice_template",
