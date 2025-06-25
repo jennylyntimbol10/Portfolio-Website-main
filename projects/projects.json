@@ -2,7 +2,7 @@
   {
     "name": "Fastify Microservice Template",
     "desc": "A lightweight, scalable API template for building high-performance microservices using Fastify and Prisma ORM. ",
-    "image": "fatify",
+    "image": "https://picsum.photos/600/400?random=1",
     "category": "",
     "links": {
       "view": "https://github.com/jennylyntimbol10/fastify_microservice_template",
@@ -13,7 +13,7 @@
    {
     "name": "Real Estate Listing Website",
     "desc": "A dynamic, responsive real estate platform built with JavaScript, PHP, Blade, and CoffeeScript. ",
-    "image": "real-estate",
+    "image": "https://picsum.photos/600/400?random=2",
     "category": "",
     "links": {
       "view": "https://github.com/jennylyntimbol10/real-estate-website",
